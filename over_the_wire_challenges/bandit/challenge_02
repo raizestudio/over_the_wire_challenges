@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-# SSH as bandit1
-# dashed file so we're using stdin/stout
-# cat < - or cat ./- works
-# 263JGJPfgU6LtdEvgfWU1XP5yac29mFx

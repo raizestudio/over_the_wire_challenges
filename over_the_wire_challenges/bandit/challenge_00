@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-# SSH into bandit.labs.overthewire.org, port 2220
-# User bandit0, same passwd
-
-ssh bandit.labs.overthewire.org -p 2220 -l bandit0
